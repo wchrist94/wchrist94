@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <span>&emsp;&emsp;</span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=wchrist94&count_private=true&theme=highcontrast" />
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wchrist94&layout=compact&langs_count=8" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wchrist94&layout=compact&langs_count=8&theme=highconstrast" />
     <span>&emsp;&emsp;</span>
 </div>
 
