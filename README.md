@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=wchrist94&count_private=true&theme=highcontrast" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wchrist94&hide=TeX&layout=compact&theme=highcontrast)
 </div>
 
 <div align="center">
